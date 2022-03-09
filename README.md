@@ -3,7 +3,7 @@
 This is the STM32F4XX Platform Library with just the needed code for the DVM firmware projects.
 
 The source of this package can be found here:
-http://www.st.com/en/embedded-software/stsw-stm32065.html
+http://www.st.com/en/embedded-software/stsw-stm32065.html (https://github.com/STMicroelectronics/STM32CubeF4)
 
 In order to run the DVM firmware correctly, there are the following modifications already done in this package:
 
